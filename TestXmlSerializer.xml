@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<catalog date="2018-05-03" xmlns="http://library.by/catalog">
+  <book id="b123">
+    <isbn>treeee-rytrt</isbn>
+    <author>Some Author</author>
+    <genre>Science Fiction</genre>
+    <publisher>SomePublisher</publisher>
+    <publish_date>2018-05-03</publish_date>
+    <description>Some description</description>
+    <registration_date>2018-05-03</registration_date>
+  </book>
+  <book id="b456">
+    <isbn>dgfdg-kjhkjh</isbn>
+    <author>Other Author</author>
+    <genre>Computer</genre>
+    <publisher>OtherPublisher</publisher>
+    <publish_date>2018-05-03</publish_date>
+    <description>Other description</description>
+    <registration_date>2018-05-03</registration_date>
+  </book>
+</catalog>
